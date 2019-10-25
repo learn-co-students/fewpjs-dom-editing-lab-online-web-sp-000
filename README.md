@@ -1,4 +1,4 @@
-# DOM Editing Lab
+ DOM Editing Lab
 
 ## Learning Goals
 
@@ -66,18 +66,18 @@ browsers, you don't have to worry about specifying the value unless you want to
 change it. This value can be many things (including `none`, which hides the
 elements), but the default value for most elements is either
 [`block`][html-block-elements] or [`inline`][html-inline-elements]. For the
-images above, the value is `inline`. 
+images above, the value is `inline`.
 
 ## Instructions
 
 Enough chit-chat, let's write some HTML!
 
-First, we need a way to view the results of our HTML in a browser. 
+First, we need a way to view the results of our HTML in a browser.
 
 If you're working on your own machine, from the terminal in the directory you're
 working in, run `open index.html` to open up a copy of the file in your browser.
 
-If you are working in the in-browser IDE, type `httpserver` from the console to 
+If you are working in the in-browser IDE, type `httpserver` from the console to
 start up a temporary web server, and copy the URL provided into the browser's URL
 bar to view `index.html`.
 
@@ -190,9 +190,9 @@ This is the DOM tree!
 ## Moving On
 
 Run `learn` from the command line. If the test pass, enter `learn
-submit`. You'll then be prompted to move on. If you are working in the 
+submit`. You'll then be prompted to move on. If you are working in the
 in-browser IDE, you can end the `httpserver` server by typing
-Control + C. 
+Control + C.
 
 ## Conclusion
 
